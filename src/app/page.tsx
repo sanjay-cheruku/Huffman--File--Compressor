@@ -84,7 +84,7 @@ export default function Home() {
     <>
       <div id="container">
           <div className="text_box" style={{ overflowY: 'scroll' }}>
-              <span id="treearea" style={{ width: '100%', textAlign: 'center', fontSize: 'medium', whiteSpace: 'pre-wrap' }}>
+              <span id="treearea" style={{ width: '100%', textAlign: 'left', fontSize: 'medium', whiteSpace: 'pre-wrap' }}>
                   {treeStructure}
               </span>
           </div>
