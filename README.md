@@ -6,6 +6,8 @@
 
 **A modernized, full-stack file compression tool implementing the Huffman Encoding algorithm with persistent analytics**
 
+🌍 **Live Deployment:** [huffman-file-compressor-nine.vercel.app](https://huffman-file-compressor-nine.vercel.app/)
+
 [🚀 Quick Start](#-quick-start) • [📖 How It Works](#-how-huffman-encoding-works) • [🎯 Features](#-key-features) • [🔧 Usage](#-usage-guide) • [📊 Analytics](#-analytics--persistence)
 
 ---
